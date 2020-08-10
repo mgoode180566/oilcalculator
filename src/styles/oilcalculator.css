@@ -1,0 +1,18 @@
+.calculator {
+    margin: auto;
+    padding-top: 40px;
+    background-color: skyblue;
+    padding-left: 100px;
+    width: 600px;
+    height: 420px;
+}
+
+.results {
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.calculate-btn {
+    padding-top: 100px;
+}
