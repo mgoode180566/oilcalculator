@@ -61,7 +61,7 @@ class OilPremixCalculator extends Component {
 
         return ( 
         <div className="calculator">
-            <h2>Two Stroke Premix Calculator</h2>
+            <h2>My Two Stroke Premix Calculator</h2>
             <div>
                 <div class="btn-group" role="group" onChange={this.onHandleUnitChange.bind(this)}>
                     <button type="button" class="btn btn-secondary" value="Metric" onClick={this.onHandleUnitChange.bind(this)}>Litres</button>
